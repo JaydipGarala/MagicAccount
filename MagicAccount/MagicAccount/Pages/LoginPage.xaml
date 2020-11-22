@@ -4,7 +4,7 @@
              x:Class="MagicAccount.Pages.LoginPage" Title="Login">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Login to Continue DashBoard"/>
+            <Label Text="Login to Continue DashBoard Pages New"/>
             <Entry Placeholder="E-mail"/>
             <Entry Placeholder="Password" IsPassword="True"/>
             <Button Text="Login"/>
